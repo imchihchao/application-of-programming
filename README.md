@@ -1,6 +1,6 @@
-# applications of programming
+# Applications of Programming
 
-##  00 Introduction
+## 00 Introduction
 
 ## 01 Python Overview
 
@@ -10,6 +10,6 @@
 
 ## 04 Machine Learning
 
-## Web API
+## 05 Web API
 
-## Web System
+## 06 Web System
