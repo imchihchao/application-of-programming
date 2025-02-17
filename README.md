@@ -23,8 +23,11 @@
 
 ## 06 Web System
 
-## Homework and Report
+## Homework
 
 - HW01
 - HW02
+
+## Report
+
 - Report
